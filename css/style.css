@@ -92,12 +92,13 @@ h1 {
   .currentLink {
     /*color: darkolivegreen;*/
     text-decoration: underline;
+    border: 1px solid black;
  }
 
  li a:focus, li a:hover {
   /*color: darkolivegreen;*/
   text-decoration: underline;
-  /*border: 1px solid darkolivegreen;*/
+  border: 1px solid black;
 }
 
 .skipToMain {
